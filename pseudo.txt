@@ -1,0 +1,7 @@
+## Rock Paper Scissors
+
+1. Create getComputerChoice function that randomly returns back either Rock, Paper or Scissors.
+2. Create getHumanChoice to allow user input for either Rock, Paper or Scissors.
+3. Compare the function and user output.
+4. Keep count of user and computer wins.
+5. Allow user to exit and end the game.
